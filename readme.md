@@ -13,7 +13,6 @@ A repository for Swahili bible data in JSON format and XML
 
 ## Acknowledgements
 
-Thanks to [@Kalebu](https://github.com/Kalebu) for providing an idea to open source the files
   
 ## License
 
